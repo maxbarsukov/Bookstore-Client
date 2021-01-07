@@ -1,0 +1,8 @@
+# Ignore bundler config.
+/.bundle
+
+# Ignore uploaded files in development.
+.byebug_history
+
+# Ignore useless Idea files.
+/.idea
